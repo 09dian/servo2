@@ -23,6 +23,7 @@ void loop()
   {
     servo1.write(i);
   }
+  
 //akhirservo1
 
   

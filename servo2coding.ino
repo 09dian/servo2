@@ -27,7 +27,7 @@ void loop()
 
   
   
-//servo2 berputar 360 draja
+//servo2 berputar 360 drajat
 
  for (a = 0; a <= 360; a += 1) //menentukan putran derajat
   {
